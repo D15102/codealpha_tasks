@@ -1,7 +1,7 @@
 import { DropdownMenu } from '@radix-ui/themes'
 const Navbar = () => {
   return (
-    <div className='h-20 px-15'>
+    <div className='h-20 px-15 fixed'>
         <div className='w-full h-full flex items-center justify-between'>
             <img src="https://cdn-icons-png.flaticon.com/512/10001/10001425.png" 
             className='w-[2.8rem] h-[2.6rem] cursor-pointer'
