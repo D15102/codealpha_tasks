@@ -1,4 +1,3 @@
-import React from 'react'
 import { Github, Linkedin , Instagram } from "lucide-react";
 import Spline from "@splinetool/react-spline";
 const Home = () => {
